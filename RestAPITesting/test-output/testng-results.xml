@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-12T07:27:15Z" name="Default suite" finished-at="2019-05-12T07:27:20Z" duration-ms="5250">
+    <groups>
+    </groups>
+    <test started-at="2019-05-12T07:27:15Z" name="Default test" finished-at="2019-05-12T07:27:20Z" duration-ms="5250">
+      <class name="com.TestPackage.TestAPIClass">
+        <test-method signature="validateResponseCode()[pri:0, instance:com.TestPackage.TestAPIClass@f79e]" started-at="2019-05-12T12:57:15Z" name="validateResponseCode" finished-at="2019-05-12T12:57:20Z" duration-ms="5132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseCode -->
+        <test-method signature="validateName()[pri:0, instance:com.TestPackage.TestAPIClass@f79e]" started-at="2019-05-12T12:57:20Z" name="validateName" finished-at="2019-05-12T12:57:20Z" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateName -->
+        <test-method signature="validateCanRelist()[pri:0, instance:com.TestPackage.TestAPIClass@f79e]" started-at="2019-05-12T12:57:20Z" name="validateCanRelist" finished-at="2019-05-12T12:57:20Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCanRelist -->
+        <test-method signature="validateDescription()[pri:0, instance:com.TestPackage.TestAPIClass@f79e]" started-at="2019-05-12T12:57:20Z" name="validateDescription" finished-at="2019-05-12T12:57:20Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDescription -->
+      </class> <!-- com.TestPackage.TestAPIClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
